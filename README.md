@@ -35,10 +35,12 @@ Each directory focuses on a specific aspect of architecture, providing insights,
 
 These are the main directories and their descriptions:
 
-| Directory  | Description                                                                            |
-|------------|----------------------------------------------------------------------------------------|
-| Posts      | articles that express an opinion                                                       |
-| Patterns   | reusable solutions to common architecture problems                                     |
-| Practices  | good behaviour                                                                         |
-| Principles | guiding rules and best practices for architecture development                          |
-| Processes  | different activities and tasks performed during the architecture process               |
+| Directory                         | Description                                                              |
+|-----------------------------------|--------------------------------------------------------------------------|
+| [Patterns](Patterns/index.md)     | reusable solutions to common architecture problems                       |
+| [Practices](Practices/index.md)   | good behaviour                                                           |
+| [Principles](Principles/index.md) | guiding rules and best practices for architecture development            |
+| [Processes](Processes/index.md)   | different activities and tasks performed during the architecture process |
+| [Posts](Docs/index.md)            | Background reading hopefully explaining some of my thinking.             |
+
+[Contributing.md](Contributing.md)

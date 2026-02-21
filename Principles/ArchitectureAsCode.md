@@ -1,9 +1,21 @@
 #   Architecture As Code
 
-"_Architecture As Code_" is really a misnomer as what we are really talking about is "Architecture As Information" because information is really what we are trying to capture and manage.
+Architecture as Code (AaC) is the practice of defining, managing, and enforcing application architecture using machine-readable, version-controlled code rather than static diagrams. 
 
-Whilst visual representations can be useful for communication and understanding, they often lack the depth and detail needed to fully capture the complexities of the subject area being described and, evcen worse, are frequently produced in a  (mostly binary) format that makes them unusable for anything other than to show people. 
+Whilst visual representations can be useful for communication and understanding, they often lack the depth and detail needed to fully capture the complexities of the subject area being described and, even worse, are frequently produced in a (mostly binary) format that makes them unusable for anything other than to show people.
+
 Binary pictures are pretty much unusable as input to actual systems development work.
 
-This is important because I've always considered the tendency to produce "_pretty pictures_" as the primary artifacts of architecture work as a wasdte of everyones time.
- 
+This is important because I've always considered the tendency to produce "_pretty pictures_" as the primary artifacts of architecture work as a waste of everyones time because Binary pictures are pretty much unusable as input to actual systems development work.
+
+It enables automated governance through "fitness functions"—automated tests for architectural constraints—ensuring that structural design (e.g., coupling, bounded contexts) is consistent, documented, and testable.
+
+Key aspects of Architecture as Code include:
+-    Version Control & Collaboration: Architectural definitions are stored in repositories (like Git), allowing for tracking, branching, and rolling back changes just like application code.
+-    Executable Governance: Instead of relying on manual compliance checks, AaC uses automated,, actionable fitness functions to validate architectural characteristics, such as scalability or security.
+-    Documentation-as-Code: Models, diagrams (e.g., using Structurizr), and specifications (e.g., CALM JSON Schema) are generated directly from code, ensuring documentation is always up-to-date.
+-    Tooling: Examples include ArcUnit for Java, Structurizr, and Archimate for modeling. 
+
+Benefits include faster, more accurate, and more consistent, architectural changes across development lifecycles, and improved collaboration between developers and architects.
+
+However, to maximise the benefits of treating Architecture As Code we also need the [Architecture As Data](ArchitectureAsInformation.md) principles given that ant data processing applications needs both Data and Code in order to work effciently over time.

@@ -11,7 +11,8 @@ The content of  this repository is based on the Pillars of Architecture which ar
 -  **Products** - Different types of artifacts and deliverables produced during the architecture process
 -  **Processes** - Different activities and tasks performed during the architecture process
 
-There are other P's that could be included e.g. Plans, Phases, People, Platforms, etc. but I think the above are the most important ones to focus on when defining an architecture framework. Plans and Phases in particular are really Project Management topics and dictated by the development approach being taken.
+There are other P's that could be included e.g. Plans, Phases, People, Platforms, etc. but I think the above are the most important ones to focus on when defining an architecture framework. 
+Plans and Phases in particular are really Project Management topics and dictated by the development approach being taken.
 Platforms are of course important but they tend to be more relevant at the Technical Architecture level rather than the Application Architecture level and do not (or should not) change what an application does and the outcomes it produces.
 
 ## Perspectives - Zachman Framework
