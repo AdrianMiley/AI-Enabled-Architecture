@@ -1,12 +1,13 @@
 ---
 title: Architecture As Information
-description: Managing Architecture Artefacts as Data 
+description: Managing Architecture Artefacts as Data
 ---
-# Architecture as Data
 
-"Architecture as Data" treats the structure and design of a system (whether physical, digital, or organizational) as a dynamic dataset rather than just a static blueprint. 
+# Architecture As Information
 
-This approach allows architects to use computational tools to modify, analyze, and automate management of the architectural artefacts.
+"Architecture as Data" treats the structure and design of a system (whether physical, digital, or organizational) as a dynamic dataset rather than just a static blueprint. This allows architects to use computational tools to modify, analyze, and automate management of architectural artefacts.
+
+[Back](../index.md) [Home](../index.md)
 
 Core Interpretations
 

@@ -2,6 +2,8 @@
 title: What Is Architecture
 description:  
 ---
+#   What Is "Architecture"
+
 What is the difference between Architecture and Design?
 
 This is a question that I am regularly asked and is often the subject of great debate within the Information Technology community.

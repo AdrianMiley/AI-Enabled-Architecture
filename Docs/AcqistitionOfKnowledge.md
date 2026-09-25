@@ -46,7 +46,8 @@ flowchart TD
     ActiveExperimentation --> ExperientialActivist
 ```
 
-However, although this is a good abstraction (at least in my opinion it is) of the internal learning activity, it does not explain (a) why someone might want to learn something and (b) [TDC][ASM1.1]
+However, although this is a good abstraction (at least in my opinion it is) of the internal learning activity, it does not explain (a) why someone might want to learn something and (b) ...
+
 Instead, the process of learning could be described as a transition from the state of Ignorance to the state of Wisdom by learning about a Body of Knowledge . That is:
 
 ```mermaid
@@ -56,9 +57,9 @@ stateDiagram-v2
     Wisdom --> [*] : Application
 
     state Learning {
-        Hypothesize --> Research : 
-        Research --> Conclude : 
-        Conclude --> Hypothesize : Analyse
+        Hypothesize --> Research 
+        Research --> Conclude  
+        Conclude --> Hypothesize 
     }
 
     state BodyOfKnowledge {

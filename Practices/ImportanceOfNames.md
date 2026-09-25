@@ -1,4 +1,9 @@
-#   The Importance of Names
+---
+title: Importance Of Names
+description: Why naming things correctly matters in models and documentation
+---
+
+#   Importance Of Names
 
 I had many conversations over the years about the importance of giving things meaningful names.
 
@@ -67,3 +72,5 @@ That for me illustrates the practical aspects of giving things a "good name" whe
 3. Let the model and its vocabulary stand on its own two legs - by all means provide definitions, description and examples but, like a good book, the data model should be consumable by a reader without the author always being present to explain what the words mean to a knowledgeable reader.
 
 If you can't achieve the last one then the model will most likely fail in its purpose.
+
+[Back](../index.md) [Home](../index.md)

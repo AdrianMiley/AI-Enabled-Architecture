@@ -1,3 +1,8 @@
+---
+title: Architecture As Code
+description: Treating architecture definitions as executable artifacts
+---
+
 #   Architecture As Code
 
 Architecture as Code (AaC) is the practice of defining, managing, and enforcing application architecture using machine-readable, version-controlled code rather than static diagrams. 
@@ -11,11 +16,11 @@ This is important because I've always considered the tendency to produce "_prett
 It enables automated governance through "fitness functions"—automated tests for architectural constraints—ensuring that structural design (e.g., coupling, bounded contexts) is consistent, documented, and testable.
 
 Key aspects of Architecture as Code include:
--    Version Control & Collaboration: Architectural definitions are stored in repositories (like Git), allowing for tracking, branching, and rolling back changes just like application code.
--    Executable Governance: Instead of relying on manual compliance checks, AaC uses automated,, actionable fitness functions to validate architectural characteristics, such as scalability or security.
--    Documentation-as-Code: Models, diagrams (e.g., using Structurizr), and specifications (e.g., CALM JSON Schema) are generated directly from code, ensuring documentation is always up-to-date.
--    Tooling: Examples include ArcUnit for Java, Structurizr, and Archimate for modeling. 
+- Version Control & Collaboration: Architectural definitions are stored in repositories (like Git), allowing for tracking, branching, and rolling back changes just like application code.
+- Executable Governance: Use automated, actionable fitness functions to validate architectural characteristics, such as scalability or security.
+- Documentation-as-Code: Models, diagrams, and specifications are generated directly from source artifacts, ensuring documentation is up-to-date.
+- Tooling: Examples include ArcUnit for Java, Structurizr, and Archimate for modeling.
 
-Benefits include faster, more accurate, and more consistent, architectural changes across development lifecycles, and improved collaboration between developers and architects.
+Benefits include faster, more accurate, and more consistent architectural changes across development lifecycles, and improved collaboration between developers and architects.
 
-However, to maximise the benefits of treating Architecture As Code we also need the [Architecture As Data](ArchitectureAsInformation.md) principles given that ant data processing applications needs both Data and Code in order to work effciently over time.
+[Back](../index.md) [Home](../index.md)
