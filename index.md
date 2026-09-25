@@ -7,7 +7,7 @@ layout: default
 
 So why does the Information & Communication Technology (ICT) world need yet another architecture framework?
 
-The honest answer is that it doesn't really need one except that I think the emergence of Artificial Intelligence (AI) for Software Engineering has fundamentally changed the way that all I.T. Architecture will be done in the future.
+The honest answer is that it doesn't really need one except that I think the emergence of Artificial Intelligence (AI) for Software Engineering has fundamentally changed the way that all Information & Communications Technology (ICT) Architecture will be done in the future.
 
 Hence, we need to think about evolving an approach that incorporate these new technologies and optimise their benefits in a coherent way whilst minimising their risks and downsides.
 
