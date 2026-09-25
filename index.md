@@ -27,11 +27,11 @@ The significant parts of the repository is organized into sub-directories aligne
 
 | Directory                         | Description                                                                             |
 |-----------------------------------|-----------------------------------------------------------------------------------------|
-| [Practices](Practices/index.md)   | Reusable solutions to common architecture problems                                      |
-| [Principles](Principles/index.md) |                                                                                         |
-| [Principles](Principles/index.md) | guiding rules and best practices for architecture development                           |
-| [Processes](Processes/index.md)   | Definitions of activities and tasks performed during the architecture process           |
-| [Prompts](Prompts/index.md)       | Standardised prompts for use in generating Architectural Artefacts                      |
+| [Practices](Practices/PracticesSummary.md)   | Reusable solutions to common architecture problems                                      |
+| [Principles](Principles/PrinciplesSummary.md) |                                                                                         |
+| [Principles](Principles/PrinciplesSummary.md) | guiding rules and best practices for architecture development                           |
+| [Processes](Processes/ProcessesSummary.md)   | Definitions of activities and tasks performed during the architecture process           |
+| [Prompts](Prompts/PromptsSummary.md)       | Standardised prompts for use in generating Architectural Artefacts                      |
 
 ... along with auxilliary directories for other kinds of content...
 
