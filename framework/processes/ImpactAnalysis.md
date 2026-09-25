@@ -7,5 +7,5 @@ description: Process for assessing impact of changes
 
 _Content to be added._
 
-[Back](../index.md) [Home](../index.md)
+[Back](../../index.md) [Home](../../index.md)
 

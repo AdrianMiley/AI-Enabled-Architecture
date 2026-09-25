@@ -23,4 +23,4 @@ Key aspects of Architecture as Code include:
 
 Benefits include faster, more accurate, and more consistent architectural changes across development lifecycles, and improved collaboration between developers and architects.
 
-[Back](../index.md) [Home](../index.md)
+[Back](../../index.md) [Home](../../index.md)

@@ -3,8 +3,6 @@ title: Home
 layout: home
 nav_order: 0
 ---
-#  AI Enabled Architecture
-
 So why does the Information & Communication Technology (ICT) world need yet another architecture framework?
 
 The honest answer is that it doesn't really need one except that I think the emergence of Artificial Intelligence (AI) for Software Engineering has fundamentally changed the way that all Information & Communications Technology (ICT) Architecture will be done in the future.
@@ -27,10 +25,10 @@ The significant parts of the repository is organized into sub-directories aligne
 
 | Directory                         | Description                                                                             |
 |-----------------------------------|-----------------------------------------------------------------------------------------|
-| [Practices](Practices/PracticesSummary.md)   | Reusable solutions to common architecture problems                                      |
-| [Principles](Principles/PrinciplesSummary.md) |                                                                                         |
-| [Principles](Principles/PrinciplesSummary.md) | guiding rules and best practices for architecture development                           |
-| [Processes](Processes/ProcessesSummary.md)   | Definitions of activities and tasks performed during the architecture process           |
-| [Prompts](Prompts/PromptsSummary.md)       | Standardised prompts for use in generating Architectural Artefacts                      |
+| [Practices](framework/practices/PracticesSummary.md)   | Reusable solutions to common architecture problems                                      |
+| [Principles](framework/principles/PrinciplesSummary.md) |                                                                                         |
+| [Principles](framework/principles/PrinciplesSummary.md) | guiding rules and best practices for architecture development                           |
+| [Processes](framework/processes/ProcessesSummary.md)   | Definitions of activities and tasks performed during the architecture process           |
+| [Prompts](framework/prompts/PromptsSummary.md)       | Standardised prompts for use in generating Architectural Artefacts                      |
 
 [About Me](About.md)

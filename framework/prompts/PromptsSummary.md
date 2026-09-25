@@ -7,4 +7,4 @@ description: Collection of useful prompts and templates
 
 _Content to be added._
 
-[Home](../index.md)
+[Home](../../index.md)

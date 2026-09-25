@@ -1,11 +1,12 @@
 ---
 title: Richly Typed Models
 description: Advantages of rich typing in models
+parent: Practices
 ---
 
 #   Richly Typed Models
 
 _Content to be added._
 
-[Back](../index.md) [Home](../index.md)
+[Back](../../index.md) [Home](../../index.md)
 

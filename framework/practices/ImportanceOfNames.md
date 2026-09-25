@@ -1,6 +1,7 @@
 ---
 title: Importance Of Names
 description: Why naming things correctly matters in models and documentation
+parent: Practices
 ---
 
 #   Importance Of Names

@@ -9,6 +9,6 @@ description: Use of Patterns in Architecture
 
 ##  Further Reading
 
-- [Rules For Specifications](RulesForSpecifications.md)
-- [Domain Component Structure](DomainComponentStructure.md)
+- [Rules For Specifications](../../Patterns/RulesForSpecifications.md)
+- [Domain Component Structure](../../Patterns/DomainComponentStructure.md)
 - [Code Lists](CodeLists.md)

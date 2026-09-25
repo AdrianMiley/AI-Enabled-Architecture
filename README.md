@@ -32,10 +32,10 @@ These are the main directories and their descriptions:
 
 | Directory                         | Description                                                              |
 |-----------------------------------|--------------------------------------------------------------------------|
-| [Patterns](Patterns/PatternsSummary.md)     | reusable solutions to common architecture problems                       |
-| [Practices](Practices/PracticesSummary.md)   | good behaviour                                                           |
-| [Principles](Principles/PrinciplesSummary.md) | guiding rules and best practices for architecture development            |
-| [Processes](Processes/ProcessesSummary.md)   | different activities and tasks performed during the architecture process |
+| [Patterns](solutions/patterns/PatternsSummary.md)     | reusable solutions to common architecture problems                       |
+| [Practices](framework/practices/PracticesSummary.md)   | good behaviour                                                           |
+| [Principles](framework/principles/PrinciplesSummary.md) | guiding rules and best practices for architecture development            |
+| [Processes](framework/processes/ProcessesSummary.md)   | different activities and tasks performed during the architecture process |
 | [Posts](Docs/index.md)            | Background reading hopefully explaining some of my thinking.             |
 
 [Contributing.md](Contributing.md)
