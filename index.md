@@ -1,14 +1,7 @@
 ---
-title: Yet Another Architecture Framework
-description: Yet Another Architecture Framework
+title: AI Enabled Architecture
+description: A framework for producing IT Architecture artefacts that are optimised for use with AI tools
 layout: default
-children :
-  -   README
-  -   Docs/index
-  -   Patterns/index
-  -   Practices/index
-  -   Principles/index
-  -   Processes/index
 ---
 ##  Motivation
 
@@ -30,9 +23,7 @@ Hopefully some of this is of use to someone else and if not then at least it wil
 
 ##  Repository Organization
 
-The repository is organized into several sub-directories that each focuses on a specific aspect of architecture, providing insights, best practices, and reusable solutions.
-
-These are the main directories and generally what is in them:
+The significant parts of the repository is organized into sub-directories aligned with the generally accepted Pillars of Architecture...
 
 | Directory                         | Description                                                                             |
 |-----------------------------------|-----------------------------------------------------------------------------------------|
@@ -41,7 +32,12 @@ These are the main directories and generally what is in them:
 | [Principles](Principles/index.md) | guiding rules and best practices for architecture development                           |
 | [Processes](Processes/index.md)   | Definitions of activities and tasks performed during the architecture process           |
 | [Prompts](Prompts/index.md)       | Standardised prompts for use in generating Architectural Artefacts                      |
-|                                   |                                                                                         |
-| [Blogs](Docs/index.md)            | Articles that express an opinion and/or explain some of the thinking behind my opinions |
+
+... along with auxilliary directories for other kinds of content...
+
+| Directory                   | Description                                                                             |
+|-----------------------------|-----------------------------------------------------------------------------------------|
+| [Blogs](Docs/index.md)      | Articles that express an opinion and/or explain some of the thinking behind my opinions |
+| [Scripts](Scripts/index.md) |  |
 
 [About Me](About.md)
