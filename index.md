@@ -1,9 +1,9 @@
 ---
-title: AI Enabled Architecture
-description: A framework for producing IT Architecture artefacts that are optimised for use with AI tools
-layout: default
+title: Home
+layout: home
+nav_order: 0
 ---
-##  Motivation
+#  AI Enabled Architecture
 
 So why does the Information & Communication Technology (ICT) world need yet another architecture framework?
 
@@ -32,12 +32,5 @@ The significant parts of the repository is organized into sub-directories aligne
 | [Principles](Principles/PrinciplesSummary.md) | guiding rules and best practices for architecture development                           |
 | [Processes](Processes/ProcessesSummary.md)   | Definitions of activities and tasks performed during the architecture process           |
 | [Prompts](Prompts/PromptsSummary.md)       | Standardised prompts for use in generating Architectural Artefacts                      |
-
-... along with auxilliary directories for other kinds of content...
-
-| Directory                   | Description                                                                             |
-|-----------------------------|-----------------------------------------------------------------------------------------|
-| [Blogs](Docs/index.md)      | Articles that express an opinion and/or explain some of the thinking behind my opinions |
-| [Scripts](Scripts/index.md) |  |
 
 [About Me](About.md)
