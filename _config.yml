@@ -1,18 +1,25 @@
-title: Minimal theme
-description: Minimal is a theme for GitHub Pages.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
-header_pages:
-  - about.md
-  - Practices/index.md
-  - Processes/index.md
-  - Patterns/index.md
-  - Principles/index.md
+title: AI Enabled Architecture
+description: A framework for producing IT Architecture artefacts that are optimised for use with AI tools
+
+# GitHub Pages settings
+url: "https://AdrianMiley.github.io/AIEnabledArchitecture/"
+
+remote_theme: just-the-docs/just-the-docs
 nav_enabled: true
 heading_anchors: true
-
+color_scheme: light
 search_enabled: true
+
+plugins:
+  - jekyll-default-layout
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+
+# Mermaid configuration : Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+mermaid:
+  version: "11.16.0"
+
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
