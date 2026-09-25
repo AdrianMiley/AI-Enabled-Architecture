@@ -3,14 +3,13 @@ title: Importance Of Names
 description: Why naming things correctly matters in models and documentation
 parent: Practices
 ---
-
 #   Importance Of Names
 
 I had many conversations over the years about the importance of giving things meaningful names.
 
 A lot of articles have been written about Naming Standards and most of the rules are pretty simple...
 
--   Use descriptive names
+- Use descriptive names
 - use alphanumeric characters only
 - avoid abbreviations
 - avoid acronyms

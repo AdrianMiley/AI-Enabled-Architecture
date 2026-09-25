@@ -1,5 +1,5 @@
 ---
-title: Framework Summary
+title: Framework
 layout: default
 nav_order: 2
 ---

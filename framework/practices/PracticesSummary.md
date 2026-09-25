@@ -1,6 +1,7 @@
 ---
 title: Practices
 description: Recommended practices and patterns for architecture
+parent: Framework
 ---
 
 #   Practices

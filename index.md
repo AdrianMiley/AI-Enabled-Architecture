@@ -19,16 +19,4 @@ So, given all that, what will be found here is not a new Architectural Framework
 
 Hopefully some of this is of use to someone else and if not then at least it will be of use to me as a reference for my own work.
 
-##  Repository Organization
-
-The significant parts of the repository is organized into sub-directories aligned with the generally accepted Pillars of Architecture...
-
-| Directory                         | Description                                                                             |
-|-----------------------------------|-----------------------------------------------------------------------------------------|
-| [Practices](framework/practices/PracticesSummary.md)   | Reusable solutions to common architecture problems                                      |
-| [Principles](framework/principles/PrinciplesSummary.md) |                                                                                         |
-| [Principles](framework/principles/PrinciplesSummary.md) | guiding rules and best practices for architecture development                           |
-| [Processes](framework/processes/ProcessesSummary.md)   | Definitions of activities and tasks performed during the architecture process           |
-| [Prompts](framework/prompts/PromptsSummary.md)       | Standardised prompts for use in generating Architectural Artefacts                      |
-
 [About Me](About.md)
