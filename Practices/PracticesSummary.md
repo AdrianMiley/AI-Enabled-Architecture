@@ -1,10 +1,6 @@
 ---
 title: Practices
 description: Recommended practices and patterns for architecture
-children:
--   DiagramConventions
--   ImportanceOfNames
--   RichlyTypedModels
 ---
 
 #   Practices

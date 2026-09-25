@@ -1,8 +1,6 @@
 ---
 title: Processes
 description: Process guidance and workflows
-children:
--   ImpactAnalysis
 ---
 
 #   Processes

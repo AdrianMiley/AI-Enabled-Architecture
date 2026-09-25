@@ -1,10 +1,6 @@
 ---
 title: Principles
 description: Use of Principles of Software Architecture
-children:
-    -   ArchitectureAsCode
-    -   VersioningOverTime
-    -   ReuseWhatExists
 ---
 #   Principles
 

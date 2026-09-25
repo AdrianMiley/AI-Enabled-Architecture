@@ -1,10 +1,6 @@
 ---
 title: Patterns
 description: Use of Patterns in Architecture
-children:
--   CodeLists
--   DomainComponentStructure
--   RulesForSpecifications
 ---
 
 #   Patterns

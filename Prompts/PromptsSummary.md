@@ -1,7 +1,6 @@
 ---
 title: Prompts
 description: Collection of useful prompts and templates
-children: []
 ---
 
 #   Prompts
