@@ -4,7 +4,7 @@ description: A framework for producing IT Architecture artefacts that are optimi
 # GitHub Pages settings
 url: "https://AdrianMiley.github.io/AI-Enabled-Architecture/"
 
-#remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 nav_enabled: true
 heading_anchors: true
 color_scheme: light
