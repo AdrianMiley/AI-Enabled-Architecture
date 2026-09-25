@@ -1,3 +1,8 @@
+---
+title: Identification
+description: Principles for identifying elements and entities
+---
+
 #   Element Identification
 
 A significant decision when designing any data management solution is what to use as the "_Public Universally Unique Identifier_" for any given Business Entity and th best approach depends on the requirements for the UUID itself.
@@ -179,4 +184,4 @@ myDomain/party/individual
 ####    FQN Aliases
 
 
-
+[Back](../index.md) [Home](../index.md)
